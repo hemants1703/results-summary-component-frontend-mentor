@@ -1,0 +1,29 @@
+.d-flex {
+    display: flex;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.summary a {
+    color: white;
+    text-decoration: none;
+    background: rgb(48, 59, 90);
+    padding: 0.5rem 4.5rem;
+    border-radius: 100px;
+}
+
+.summary a:hover {
+    background: rgb(120,87,255);
+    background: linear-gradient(180deg, rgba(120,87,255,1) 0%, rgba(46,43,233,1) 100%);
+}
+
